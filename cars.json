@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Camera",
+    "Company" : "Chervolet",
+    "Specs": {
+      "Type": ["Coupe"],
+      "Fuel": ["Petrol"]
+    }
+  },
+  {
+    "Name": "DLS C",
+    "Company" : "Mercedes",
+    "Specs": {
+      "Type": ["Sedan"],
+      "Fuel": ["Deisel"]
+    }
+  },
+  {
+    "Name": "i8",
+    "Company" : "BMW",
+    "Specs": {
+      "Type": ["Coupe"],
+      "Fuel": ["Petrol"]
+    }
+  },
+  {
+    "Name": "Aventador",
+    "Company" : "Lamborgini",
+    "Specs": {
+      "Type": ["Coupe"],
+      "Fuel": ["Petrol"]
+    }
+  },
+  {
+    "Name": "Discovery",
+    "Company" : "Land Rover",
+    "Specs": {
+      "Type": ["SUV"],
+      "Fuel": ["Deisel"]
+    }
+  },
+  {
+    "Name": "Rapide",
+    "Company" : "Astorn Martin",
+    "Specs": {
+      "Type": ["Sedan"],
+      "Fuel": ["Electric"]
+    }
+  }
+]
