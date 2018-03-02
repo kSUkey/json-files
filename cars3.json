@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Camero",
+    "Company" : "Chervolet",
+    "Type": ["Coupe"],
+    "Fuel": ["Petrol"]
+  },
+  {
+    "Name": "DLS C",
+    "Company" : "Mercedes",
+    "Type": ["Sedan"],
+    "Fuel": ["Diesel"]
+  },
+  {
+    "Name": "i8",
+    "Company" : "BMW",
+    "Type": ["Coupe"],
+    "Fuel": ["Petrol"]
+  },
+  {
+    "Name": "Aventador",
+    "Company" : "Lamborgini",
+    "Type": ["Coupe"],
+    "Fuel": ["Petrol"]
+  },
+  {
+    "Name": "Discovery",
+    "Company" : "Land Rover",
+    "Type": ["SUV"],
+    "Fuel": ["Deisel"]
+  },
+  {
+    "Name": "Rapide",
+    "Company" : "Astorn Martin",
+    "Type": ["Sedan"],
+    "Fuel": ["Electric"]
+  },
+  {
+    "Name": "Canyene",
+    "Company" : "Porshe",
+    "Type": ["SUV"],
+    "Fuel": ["Diesel"]
+  },
+  {
+    "Name": "Mustang",
+    "Company" : "Ford",
+    "Type": ["Sedan"],
+    "Fuel": ["Sedan"]
+  },
+  {
+    "Name": "Kisahsi",
+    "Company" : "Maruti Suzuki",
+    "Type": ["Sedan"],
+    "Fuel": ["Electric"]
+  }
+]
