@@ -27,7 +27,7 @@
     "Name": "Discovery",
     "Company" : "Land Rover",
     "Type": ["SUV"],
-    "Fuel": ["Deisel"]
+    "Fuel": ["Diesel"]
   },
   {
     "Name": "Rapide",
